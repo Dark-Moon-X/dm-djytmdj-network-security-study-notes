@@ -143,6 +143,7 @@
 - windows权限维持—SSP&HOOK&DSRM&SIDhistory&SkeletonKey.md
 - windows权限维持—黄金白银票据&隐藏用户&远控&RustDesk&GotoHttp.md
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)：开源（GPL-3.0）自托管自主式 AI 渗透平台，MCP 编排侦察/利用/报告智能体，覆盖 Web/API/AD/Kubernetes，本地隐私令牌化。
 ## 3.10. 渗透工具介绍与使用
 
 - ARL灯塔安装与使用.md
